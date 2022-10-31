@@ -76,7 +76,7 @@
                       <a href=""><b>2</b> <br> sec</a>
                     </div><!--endtop-->
                     <div class="details">
-                      <h2 class="cr3"> Burger v3</h2>
+                      <h2 class="cr3"> Burger v4</h2>
                       <p class="cr4"> tommato, green salad,pita,<br> ketchup, maionese, ….</p>
                       <div class="rating">
                         <i class="fa fa-star"></i>
